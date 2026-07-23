@@ -3,7 +3,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=soft&color=0:11998e,100:38ef7d&height=170&section=header&text=Hey,%20I'm%20Babitha&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 
 <img src="https://komarev.com/ghpvc/?username=JakkuBabitha&label=PROFILE+VIEWS&color=11998e&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/JakkuBabitha?label=FOLLOWERS&style=flat-square&color=38ef7d"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=11998E&center=true&vCenter=true&width=600&lines=Data+Science+%2B+ML+%2B+GenAI;LangGraph+%7C+TensorFlow+%7C+Kafka+%7C+Spark;Turning+research+papers+into+working+code)](https://git.io/typing-svg)
 
@@ -68,8 +67,8 @@ Kafka + Spark Structured Streaming + LSTM on NASA's CMAPSS turbofan degradation 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JakkuBabitha&show_icons=true&theme=graywhite&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JakkuBabitha&layout=compact&theme=graywhite&hide_border=true"/>
+<img height="160" src="https://github-readme-stats-fast.vercel.app/api?username=JakkuBabitha&show_icons=true&theme=graywhite&hide_border=true"/>
+<img height="160" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JakkuBabitha&layout=compact&theme=graywhite&hide_border=true"/>
 </div>
 
 ## 🐍 Contribution Snake
@@ -83,7 +82,7 @@ Kafka + Spark Structured Streaming + LSTM on NASA's CMAPSS turbofan degradation 
 <div align="center">
 
 <a href="https://linkedin.com/in/jakku-babitha"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:babithareddy137@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/JakkuBabitha"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br><br>
